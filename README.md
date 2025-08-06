@@ -1,5 +1,5 @@
 # Hajj-Care
-**Hajj Care** is a software engineering project designed to improve health monitoring and emergency response for the pligrims during Hajj
+**Hajj Care** is a Software Engineering project designed to improve health monitoring and emergency response for the pligrims during Hajj
 The system consists of two main components:
 1. **SmartBand** - worn by pilgrims to monitor vital signs,
 2. **Mobile Application** - used by three roles : pilgrims , the medical teams , and system admins
