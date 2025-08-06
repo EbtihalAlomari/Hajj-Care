@@ -24,5 +24,5 @@ This project was developed as part of a **Software Engineering Course** , follow
 - Managment Sequence Diagram [View](https://drive.google.com/file/d/1dyfDGZ5Xt6tO8UktATLLxDgkcLK_-Y6k/view?usp=drivesdk)
 ---
 ## Files
-- [Hajj Care Full Report](Hajj20%Care20%Project.pdf)
+- [Hajj Care Full Report](Hajj_Care_Project.pdf)
 - [Hajj Care Presentation](PRESENTATION.pdf)
